@@ -1,5 +1,5 @@
 % 1st Way of SNR
-img = imread('test.tiff');
+img = imread('test2.tiff');
 img = double(img(:));
 ima = max(img(:));
 imi = min(img(:));
